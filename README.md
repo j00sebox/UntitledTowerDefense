@@ -33,4 +33,4 @@ The most expensive tower and for good reason. High damage rockets that will foll
 
 ## How To Run
 
-This repo only contains the source code but there is a release build of the game that can be downloaded and played in the release tab.
+This repo only contains the source code but there is a release build of the game that can be downloaded and played in the release tab. The executable is named GameText.exe.
