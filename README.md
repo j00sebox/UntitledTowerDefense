@@ -9,7 +9,7 @@ The main mechanic in this game is that you can change the path that the enemies 
 
 The game starts with a path straight to the base but over time you can alternate that path by buying roads with money earned from killing enemies.
 
-![Image2](Screenshots/ModifiedPath>PNG)
+![Image2](Screenshots/ModifiedPath.PNG)
 
 There are 4 different towers you can use with all different advantages/disadvantages and at different prices.
 
